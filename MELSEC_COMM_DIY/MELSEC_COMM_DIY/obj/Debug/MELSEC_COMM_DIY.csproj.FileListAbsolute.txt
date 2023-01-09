@@ -1,0 +1,34 @@
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.pdb
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Form1.resources
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Properties.Resources.resources
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.csproj.GenerateResource.Cache
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+C:\Users\YeChuan\Desktop\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.pdb
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Form1.resources
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Properties.Resources.resources
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.csproj.GenerateResource.Cache
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.pdb
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Form1.resources
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.Properties.Resources.resources
+H:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.csproj.GenerateResource.Cache
+F:\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.csprojResolveAssemblyReference.cache
+F:\Nico\文档\源代码\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+F:\Nico\文档\源代码\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+F:\Nico\文档\源代码\MX Component\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
+F:\Nico\文档\源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+F:\Nico\文档\源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+F:\Nico\文档\源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
+F:\Nico\文档\VS源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\bin\Debug\MELSEC_COMM_DIY.exe.config
+F:\Nico\文档\VS源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.exe
+F:\Nico\文档\VS源代码\MX Component Test\MELSEC_COMM_DIY\MELSEC_COMM_DIY\obj\Debug\MELSEC_COMM_DIY.pdb
